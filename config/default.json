@@ -1,0 +1,5 @@
+
+{
+    "mongoURI": "mongodb+srv://besterz1:forwardz1@cluster0.7v2v5.mongodb.net/BrinkCommerce?retryWrites=true&w=majority",
+    "jwtSecret": "mySecrettoken"
+}
